@@ -1,4 +1,4 @@
-## Hi there, I'm Thanathorn Boontem (Tae)👋
+## Hi there, I'm Tanatorn Boontem (Tae)👋
 ## AI Engineering Student | Full-Stack Developer | E-Sports Production Specialist
 I am an Artificial Intelligence major at Khon Kaen University with a passion for building and deploying intelligent systems. I specialize in bridging the gap between complex AI models and practical, real-world applications, with a strong foundation in both software development and multimedia production.
 
