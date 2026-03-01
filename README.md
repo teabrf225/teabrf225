@@ -17,8 +17,8 @@ Video Editing & Design: Video post-production using DaVinci Resolve and visual d
 # Portfolio Note
 Please note that many of my core projects are hosted in private repositories due to confidentiality and ongoing research agreements. I am more than happy to discuss my technical approach and demonstrate my capabilities during an interview.
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=teabrf225&show_icons=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teabrf225&layout=compact&theme=radical)
+[![teabrf225's GitHub stats](https://github-readme-stats.vercel.app/api?username=teabrf225&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teabrf225&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 # Get In Touch
 I am always open to collaborating on innovative projects or discussing career opportunities.
