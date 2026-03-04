@@ -33,6 +33,7 @@
 <p align="center">
   <img width="62%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teabrf225&theme=dark" />
   <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teabrf225&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teabrf225&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </p>
 
 ---
@@ -132,15 +133,6 @@
 - **Concept:** Immersive 3D Horror experience developed as a capstone project at KKU.
 - **Engine:** **Godot Engine** – Solely utilized for development, from GDScript to scene composition.
 - **Focus:** Core Game Logic, Atmospheric Lighting, and Player Interaction.
-
----
-
-### 📈 Metrics
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=teabrf225&theme=react-dark&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teabrf225&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</p>
 
 ---
 
