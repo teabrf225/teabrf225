@@ -43,7 +43,7 @@
 #### 🛠️ Core Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,flask,php,laravel,js,html,css,tailwind,mysql,mongodb,postman,docker,arduino,godot,robloxstudio,blender,ps" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,flask,php,laravel,js,html,css,mysql,mongodb,postman,docker,arduino,godot,robloxstudio,blender,ps" />
   </a>
 </p>
 
@@ -102,7 +102,6 @@
 
 <p align="left">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
